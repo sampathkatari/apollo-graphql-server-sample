@@ -1,7 +1,7 @@
 ### Download dependencies `npm install`
 Will download the required dependencies 
 
-### Start the project `npm start`
+### Start the project `node index.js`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:4000/graphql]
